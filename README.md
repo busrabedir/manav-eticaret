@@ -9,16 +9,16 @@ Modern ve kullanıcı dostu arayüze sahip bir manav e-ticaret uygulaması. Kull
 
 ## ✨ Özellikler
 
-🚚 Ürün listeleme ve kategori bazlı görüntüleme
-📄 Ürün detay sayfası
-🛒 Sepete ürün ekleme / çıkarma / miktar güncelleme
-🧹 Toplu sepet yönetimi
-💳 Stripe ile güvenli ödeme sistemi
-📦 Sipariş oluşturma ve sipariş geçmişini görüntüleme
-🌱 Organik ürün etiketi desteği
-📱 Responsive ve modern kullanıcı arayüzü
-🔔 Loading, error handling ve toast bildirimleri
-⚡ Next.js Server & Client Component yapısı
+- 🚚 Ürün listeleme ve kategori bazlı görüntüleme
+- 📄 Ürün detay sayfası
+- 🛒 Sepete ürün ekleme / çıkarma / miktar güncelleme
+- 🧹 Toplu sepet yönetimi
+- 💳 Stripe ile güvenli ödeme sistemi
+- 📦 Sipariş oluşturma ve sipariş geçmişini görüntüleme
+- 🌱 Organik ürün etiketi desteği
+- 📱 Responsive ve modern kullanıcı arayüzü
+- 🔔 Loading, error handling ve toast bildirimleri
+- ⚡ Next.js Server & Client Component yapısı
 
 
 ## 🛠️ Kullanılan Teknolojiler
